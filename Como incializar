@@ -1,0 +1,8 @@
+## Projeto: UltraLims!
+
+## 📚 Como Rodar ?
+
+- Para rodar o projeto é muito simples, escolhi usar o HTML e o Json Server para otimizar e simplificar ao máximo a abertura.
+
+- Colocar NPM Start no terminal para inicializar o Json Server
+- Iniciar o Index.html normalmente.
