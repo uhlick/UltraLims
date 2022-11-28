@@ -1,8 +1,11 @@
-## Projeto: UltraLims!
+# Projeto: UltraLims!
+## Desenvolvi uma tabela para cadastro de clientes integrando a api rest de cep.
 
-## Como Rodar ?
 
-- Para rodar o projeto é muito simples, escolhi usar o HTML e o Json Server para otimizar e simplificar ao máximo a abertura.
+# Como Rodar ?
 
-- Colocar NPM Start no terminal para inicializar o Json Server
-- Iniciar o Index.html normalmente.
+##- Para rodar o projeto é muito simples, escolhi usar o HTML e o Json Server para otimizar e simplificar ao máximo a abertura.
+
+
+##- NPM Start no terminal para inicializar o Json Server
+##- Iniciar o Index.html normalmente.
