@@ -19,5 +19,5 @@ function quicksort(array) {
     //CONCATENADO COM TODOS OS ELEMENTOS MAIORES DO QUE O PIVOT//
   }
   
-  console.log(quicksort([9, 2, 5, 10, 235, 5742, 12, 67, 52]))
+  console.log(quicksort([43, 42, 1, 56, 5, 2, 8, 14, 9, 11, 22, 16, 47]))
   // FUNCAO PARA CHAMAR OS ALGORITMOS QUE GOSTARIAMOS DE ORDENAR//
