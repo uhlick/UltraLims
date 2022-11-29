@@ -25,12 +25,15 @@ nav {
 }
 
 .row {
-    padding: 1rem;
-    margin-top: 0 !important;
-    border-radius: 5px !important;
-    height: 75vh;
-    width: 50vw;
+    padding: -2rem;
+    height: 81vh;
+    width: 25vw;
+    display: flex !important;
+    align-content: center;
+    flex-direction: column-reverse;
+    justify-content: center;
     align-items: center;
+    flex-wrap: nowrap;
 }
 
 .form-control {
@@ -358,4 +361,5 @@ footer span {
 .col-md-6 {
     margin-top: -92px !important;
     height: 0px !important;
+    width: 90% !important;
 }
